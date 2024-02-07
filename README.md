@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Swift**
 
-- 💬 Ask me about **Php, Javascript, Jquery**
+- 💬 Ask me about **Php, Javascript, Jquery, MsSql, MySql, Postgresql, vb.net and VBA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
